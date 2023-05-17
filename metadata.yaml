@@ -1,0 +1,50 @@
+_repo: The-man-eaters-and-other-odd-people-b-A-popular-description-of-singular-races-of-man_70452
+_version: 0.0.1
+alternative_title: Odd people
+contributor:
+  contributor:
+    agent_name: Stoddard, Richard Henry
+    birthdate: 1825
+    deathdate: 1903
+    gutenberg_agent_id: '8124'
+    url: http://www.gutenberg.org/2009/agents/8124
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Henry_Stoddard
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Mayne_Reid
+description: 'New edition of the author''s Odd people, with different arrangement
+  of chapters.
+
+  Includes a memoir of Mayne Reid by R.H. Stoddard.'
+gutenberg_issued: '2023-04-05'
+identifiers:
+  gutenberg: '70452'
+language: en
+pgterms:marc904: https://archive.org/details/maneatersotherod00reid_0
+pgterms:marc905: 20191106165318reid
+pgterms:marc906: '1860'
+pgterms:marc907: US
+production_note: Richard Tonsing, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bT.R. Knox & Co., $c1860, copyright 1869, copyright
+  1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnology'
+- !lcsh 'Primitive societies'
+- !lcc 'GN'
+- GITenberg
+title: 'The man-eaters and other odd people : $b A popular description of singular
+  races of man.'
+url: http://www.gutenberg.org/ebooks/70452
