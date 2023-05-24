@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8124'
     url: http://www.gutenberg.org/2009/agents/8124
     wikipedia: https://en.wikipedia.org/wiki/Richard_Henry_Stoddard
+covers:
+- cover_type: archival
+  image_path: 70452-h/images/cover.jpg
 creator:
   author:
     agent_name: Reid, Mayne
@@ -24,6 +27,8 @@ description: 'New edition of the author''s Odd people, with different arrangemen
   of chapters.
 
   Includes a memoir of Mayne Reid by R.H. Stoddard.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70452#The-man-eaters-and-other-odd-people-b-A-popular-description-of-singular-races-of-man
 gutenberg_issued: '2023-04-05'
 identifiers:
   gutenberg: '70452'
